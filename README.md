@@ -3,9 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="https://www.sachinpfl.xyz/" target="blank">Sachinsatya</a></p>
-
-
 - 🔭 I’m currently working on **Data Analytics & BI.**
 
 - 🌱 I’m currently learning **ML & DL.**
