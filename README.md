@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data, Visualization & Analytics.**
 
-- 📫 How to reach me **sachinds360@gmail.com@gmail.com**
+- 📫 How to reach me **sachinds360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,8 +20,6 @@
 <a href="https://www.sachinpfl.xyz/" target="blank"><img align="center" src="https://www.sachinpfl.xyz.svg" alt="sachin mm" height="30" width="40" /></a>
 </p>
 
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
