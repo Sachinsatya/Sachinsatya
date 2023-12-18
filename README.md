@@ -20,4 +20,4 @@
 <a href="https://www.sachinpfl.xyz/" target="blank">www.sachinpfl.in</a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="Sachinsatya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight" alt="Sachinsatya" /></p>
