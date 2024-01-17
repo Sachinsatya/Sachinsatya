@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **ML & DL.**
 - 💡 Skills **Power BI | Tableau | SQL | MS Excel | Python | Power Automate | ML**
 - 📫 How to reach me <a href="https://www.sachinpfl.xyz/" target="blank">www.sachinpfl.xyz</a>
-<p><img align="left" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"  /></p>
+<p><img align="left" width="550" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"  /></p>
 
 
 
