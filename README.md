@@ -5,8 +5,9 @@
 
 - 🔭 I’m currently working on **Data Analytics, Visualization & BI.**
 - 🌱 I’m currently learning **ML & DL.**
+- 💡 Skills **Power BI | Tableau | SQL | MS Excel | Python | Power Automate | ML**
 - 📫 How to reach me <a href="https://www.sachinpfl.xyz/" target="blank">www.sachinpfl.xyz</a>
 <p><img align="left" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"  /></p>
-- 💡 Skills **Power BI | Tableau | SQL | MS Excel | Python | Power Automate | ML**
+
 
 
