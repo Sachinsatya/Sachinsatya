@@ -4,10 +4,9 @@
 
 
 - 🔭 I’m currently working on **Data Analytics & BI.**
+- 💬 Ask me about **Data, Visualization & Analytics.**
 
 - 🌱 I’m currently learning **ML & DL.**
-
-- 💬 Ask me about **Data, Visualization & Analytics.**
 
 - 📫 How to reach me **sachinds360@gmail.com**
 
