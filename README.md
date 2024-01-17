@@ -13,6 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<p><img align="left" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"  /></p>
+<p><img align="left" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"  /></p>
 
 
