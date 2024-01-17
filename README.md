@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.sachinpfl.xyz/" target="blank">www.sachinpfl.in</a>
+<a href="https://www.sachinpfl.xyz/" target="blank">www.sachinpfl.xyz</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"  /></p>
 
 
