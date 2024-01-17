@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on **Data Analytics, Visualization & BI.**
 - 🌱 I’m currently learning **ML & DL.**
 - 📫 How to reach me <a href="https://www.sachinpfl.xyz/" target="blank">www.sachinpfl.xyz</a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <p><img align="left" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"  /></p>
 
 
