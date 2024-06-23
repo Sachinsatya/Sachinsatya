@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science & Analytics.**
 - 🌱 I’m currently learning **ML, DL & NLP.**
-- 💡 Skills **Power BI | MS Fabric | DAX | SQL | Python | Power Automate | ML**
+- 💡 Skills **Power BI | MS Fabric | DAX | SQL | Python | PySpark & Spark SQL - Databricks | ML**
 - 📫 Reach me out - <a href="https://www.sachinsatya.in" target="blank">www.sachinsatya.in</a>
 <p><img align="left" width="520" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"  /></p>
 
