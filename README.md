@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **ML, DL & NLP.**
 - 💡 Skills **Power BI | MS Fabric | DAX | Python | ML : PySpark & Spark SQL - ADB**
 - 📫 Reach me out - <a href="https://www.sachinsatya.in" target="blank">www.sachinsatya.in</a> | <a href="https://www.linkedin.com/in/sachin-m-6a6a9a171/" target="blank">LinkedIn</a> | <a href="https://www.instagram.com/sachin_satyaa/" target="blank">Instagram</a>  | <a href="https://topmate.io/sachin_mm/950467" target="blank">1:1 Call</a>
-<p><img align="left" width="520" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"  /></p>
+<p><img align="left" width="520" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinsatya&&theme=tokyonight"/></p>
 
 
 
